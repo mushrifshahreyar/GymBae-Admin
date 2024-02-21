@@ -1,1 +1,3 @@
 # GymBae-Admin
+
+Gym Admin App for maintaining users, trainers, plans... 
